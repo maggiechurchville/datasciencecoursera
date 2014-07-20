@@ -1,2 +1,2 @@
-courseraDataScience
+datasciencecoursera repository
 ===================
